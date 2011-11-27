@@ -22,5 +22,18 @@
 #ifndef __VERSION_HPP__
 #define __VERSION_HPP__
 
+namespace cohere3d
+{
+  // Major version number element.
+  const int major = 0;
+
+  // Minor version number element.
+  const int minor = 0;
+
+  // Patch level version number element.
+  const int patch = 1;
+
+} // End of: namespace cohere3d
+
 #endif // End of: __VERSION_HPP__
 
